@@ -13,8 +13,10 @@ This web application serves as a real-time tracker for COVID19. The data is pull
 ![Stats](assets/stats.png)  
 
 ### Country Ranking
-![Ranking](assets/ranking.png)  
+![Ranking](assets/country_ranking.png)  
 
 ### Map
 ![Map](assets/map.png)  
 
+### Development over Time
+![Development](assets/development.png)  
