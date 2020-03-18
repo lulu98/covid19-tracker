@@ -19,4 +19,4 @@ This web application serves as a real-time tracker for COVID19. The data is pull
 ![Map](assets/map.png)  
 
 ### Development over Time
-![Development](assets/development.png)  
+![Development](assets/covid19-demo.gif)
